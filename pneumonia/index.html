@@ -38,16 +38,17 @@
             }
         }
     </style>
-    <title>新冠肺炎地级市疫情图</title>
+    <script src="./city_dict.js"></script>
+    <title>新冠肺炎疫情图（地级市每十万人确诊数）</title>
 </head>
 <body>
     <p style="text-align:center; width: 100%">
         <h1 style="text-align:center; width: 100%">
-            新冠肺炎地级市疫情图
+            新冠肺炎疫情图（地级市每十万人确诊数）
         </h1>
     </p>
     <div style="text-align:center;width: 100%">
-        <img src="legend.jpg" alt="" class="legend">
+        <img src="legend_pplt_ratio.png" alt="" class="legend">
     </div>
     <div style="text-align:center;width: 100%">
         <div id="main_div">
@@ -63,7 +64,6 @@
             </div>
         </div>
     </div>
-
     <script src="https://webapi.amap.com/maps?v=1.4.15&key=cddc8264cfa8793b396c890db09d96a0&plugin=Map3D,AMap.DistrictLayer,AMap.Scale,AMap.ToolBar"></script>
     <script src="./bundle.js"></script>
 </body>
