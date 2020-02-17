@@ -1270,7 +1270,7 @@
     "color": "#FFDFDF"
   },
   "500000": {
-    "confirmedCount": 551,
+    "confirmedCount": 552,
     "cityName": "重庆市",
     "color": "#880000"
   },
@@ -2035,7 +2035,7 @@
     "color": "#FFBFBF"
   },
   "810000": {
-    "confirmedCount": 57,
+    "confirmedCount": 58,
     "cityName": "香港",
     "color": "#FF3F3F"
   },
