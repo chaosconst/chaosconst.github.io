@@ -1,973 +1,18 @@
 {
-  "341300": {
-    "cityName": "宿州市",
-    "color": "#FF5F5F",
-    "confirmedCount": 41
-  },
-  "430700": {
-    "cityName": "常德市",
-    "color": "#E70000",
-    "confirmedCount": 82
-  },
-  "632600": {
-    "cityName": "果洛藏族自治州",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "469028": {
-    "cityName": "陵水黎族自治县",
+  "150700": {
+    "cityName": "呼伦贝尔市",
     "color": "#FFDFDF",
-    "confirmedCount": 4
+    "confirmedCount": 7
   },
-  "620300": {
-    "cityName": "金昌市",
-    "color": "#FFDFDF",
-    "confirmedCount": 1
-  },
-  "652700": {
-    "cityName": "博尔塔拉蒙古自治州",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "371100": {
-    "cityName": "日照市",
-    "color": "#FFBFBF",
-    "confirmedCount": 16
-  },
-  "659006": {
-    "cityName": "铁门关市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "469006": {
-    "cityName": "万宁市",
-    "color": "#FFBFBF",
-    "confirmedCount": 13
-  },
-  "500107": {
-    "cityName": "九龙坡区",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "610600": {
-    "cityName": "延安市",
-    "color": "#FFDFDF",
-    "confirmedCount": 8
-  },
-  "421100": {
-    "cityName": "黄冈市",
-    "color": "#590000",
-    "confirmedCount": 2907
-  },
-  "421000": {
-    "cityName": "荆州市",
-    "color": "#710000",
-    "confirmedCount": 1580
-  },
-  "430300": {
-    "cityName": "湘潭市",
-    "color": "#FF7F7F",
-    "confirmedCount": 36
-  },
-  "511700": {
-    "cityName": "达州市",
-    "color": "#FF5F5F",
-    "confirmedCount": 42
-  },
-  "500236": {
-    "cityName": "奉节县",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "522300": {
-    "cityName": "黔西南布依族苗族自治州",
-    "color": "#FFDFDF",
-    "confirmedCount": 4
-  },
-  "230700": {
-    "cityName": "伊春市",
-    "color": "#FFDFDF",
-    "confirmedCount": 1
-  },
-  "320300": {
-    "cityName": "徐州市",
-    "color": "#FF0000",
-    "confirmedCount": 79
-  },
-  "130700": {
-    "cityName": "张家口市",
-    "color": "#FF5F5F",
-    "confirmedCount": 41
-  },
-  "411600": {
-    "cityName": "周口市",
-    "color": "#FF0000",
-    "confirmedCount": 76
-  },
-  "520500": {
-    "cityName": "毕节市",
-    "color": "#FF9F9F",
-    "confirmedCount": 23
-  },
-  "430400": {
-    "cityName": "衡阳市",
-    "color": "#FF5F5F",
-    "confirmedCount": 48
-  },
-  "445200": {
-    "cityName": "揭阳市",
-    "color": "#FFDFDF",
-    "confirmedCount": 8
-  },
-  "140300": {
-    "cityName": "阳泉市",
-    "color": "#FFDFDF",
-    "confirmedCount": 4
-  },
-  "469029": {
-    "cityName": "保亭黎族苗族自治县",
-    "color": "#FFDFDF",
-    "confirmedCount": 3
-  },
-  "520300": {
-    "cityName": "遵义市",
-    "color": "#FF7F7F",
-    "confirmedCount": 32
-  },
-  "320900": {
-    "cityName": "盐城市",
-    "color": "#FF9F9F",
-    "confirmedCount": 27
-  },
-  "659003": {
-    "cityName": "图木舒克市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "620200": {
-    "cityName": "嘉峪关市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "532900": {
-    "cityName": "大理白族自治州",
-    "color": "#FFBFBF",
-    "confirmedCount": 13
-  },
-  "231000": {
-    "cityName": "牡丹江市",
-    "color": "#FFBFBF",
-    "confirmedCount": 15
-  },
-  "340500": {
-    "cityName": "马鞍山市",
+  "371500": {
+    "cityName": "聊城市",
     "color": "#FF7F7F",
     "confirmedCount": 38
   },
-  "370500": {
-    "cityName": "东营市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "360100": {
-    "cityName": "南昌市",
-    "color": "#A00000",
-    "confirmedCount": 230
-  },
-  "510700": {
-    "cityName": "绵阳市",
-    "color": "#FF9F9F",
-    "confirmedCount": 22
-  },
-  "450400": {
-    "cityName": "梧州市",
+  "445100": {
+    "cityName": "潮州市",
     "color": "#FFDFDF",
     "confirmedCount": 5
-  },
-  "421300": {
-    "cityName": "随州市",
-    "color": "#710000",
-    "confirmedCount": 1307
-  },
-  "370100": {
-    "cityName": "济南市",
-    "color": "#FF5F5F",
-    "confirmedCount": 47
-  },
-  "140400": {
-    "cityName": "长治市",
-    "color": "#FFDFDF",
-    "confirmedCount": 8
-  },
-  "220100": {
-    "cityName": "长春市",
-    "color": "#FF5F5F",
-    "confirmedCount": 45
-  },
-  "371200": {
-    "cityName": "莱芜市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "210300": {
-    "cityName": "鞍山市",
-    "color": "#FFDFDF",
-    "confirmedCount": 4
-  },
-  "420300": {
-    "cityName": "十堰市",
-    "color": "#880000",
-    "confirmedCount": 672
-  },
-  "370300": {
-    "cityName": "淄博市",
-    "color": "#FF9F9F",
-    "confirmedCount": 30
-  },
-  "500243": {
-    "cityName": "彭水苗族土家族自治县",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "632300": {
-    "cityName": "黄南藏族自治州",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "623000": {
-    "cityName": "甘南藏族自治州",
-    "color": "#FFDFDF",
-    "confirmedCount": 8
-  },
-  "222400": {
-    "cityName": "延边朝鲜族自治州",
-    "color": "#FFDFDF",
-    "confirmedCount": 5
-  },
-  "621100": {
-    "cityName": "定西市",
-    "color": "#FFDFDF",
-    "confirmedCount": 9
-  },
-  "211400": {
-    "cityName": "葫芦岛市",
-    "color": "#FFBFBF",
-    "confirmedCount": 12
-  },
-  "430900": {
-    "cityName": "益阳市",
-    "color": "#FF3F3F",
-    "confirmedCount": 60
-  },
-  "500101": {
-    "cityName": "万州区",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "210700": {
-    "cityName": "锦州市",
-    "color": "#FFBFBF",
-    "confirmedCount": 12
-  },
-  "611000": {
-    "cityName": "商洛市",
-    "color": "#FFDFDF",
-    "confirmedCount": 7
-  },
-  "150100": {
-    "cityName": "呼和浩特市",
-    "color": "#FFDFDF",
-    "confirmedCount": 7
-  },
-  "522600": {
-    "cityName": "黔东南苗族侗族自治州",
-    "color": "#FFBFBF",
-    "confirmedCount": 10
-  },
-  "230400": {
-    "cityName": "鹤岗市",
-    "color": "#FFDFDF",
-    "confirmedCount": 5
-  },
-  "500113": {
-    "cityName": "巴南区",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "451300": {
-    "cityName": "来宾市",
-    "color": "#FFBFBF",
-    "confirmedCount": 11
-  },
-  "140600": {
-    "cityName": "朔州市",
-    "color": "#FFDFDF",
-    "confirmedCount": 8
-  },
-  "445300": {
-    "cityName": "云浮市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "210100": {
-    "cityName": "沈阳市",
-    "color": "#FF9F9F",
-    "confirmedCount": 28
-  },
-  "622900": {
-    "cityName": "临夏回族自治州",
-    "color": "#FFDFDF",
-    "confirmedCount": 3
-  },
-  "321300": {
-    "cityName": "宿迁市",
-    "color": "#FFBFBF",
-    "confirmedCount": 13
-  },
-  "321200": {
-    "cityName": "泰州市",
-    "color": "#FF7F7F",
-    "confirmedCount": 37
-  },
-  "140500": {
-    "cityName": "晋城市",
-    "color": "#FFBFBF",
-    "confirmedCount": 10
-  },
-  "210400": {
-    "cityName": "抚顺市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "350500": {
-    "cityName": "泉州市",
-    "color": "#FF5F5F",
-    "confirmedCount": 47
-  },
-  "500238": {
-    "cityName": "巫溪县",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "410300": {
-    "cityName": "洛阳市",
-    "color": "#FF7F7F",
-    "confirmedCount": 31
-  },
-  "371000": {
-    "cityName": "威海市",
-    "color": "#FF7F7F",
-    "confirmedCount": 38
-  },
-  "421200": {
-    "cityName": "咸宁市",
-    "color": "#880000",
-    "confirmedCount": 836
-  },
-  "442100": {
-    "cityName": "东沙群岛",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "520100": {
-    "cityName": "贵阳市",
-    "color": "#FF7F7F",
-    "confirmedCount": 36
-  },
-  "210800": {
-    "cityName": "营口市",
-    "color": "#FFDFDF",
-    "confirmedCount": 1
-  },
-  "450300": {
-    "cityName": "桂林市",
-    "color": "#FF7F7F",
-    "confirmedCount": 32
-  },
-  "230900": {
-    "cityName": "七台河市",
-    "color": "#FFBFBF",
-    "confirmedCount": 17
-  },
-  "650400": {
-    "cityName": "吐鲁番市",
-    "color": "#FFDFDF",
-    "confirmedCount": 3
-  },
-  "659004": {
-    "cityName": "五家渠市",
-    "color": "#FFDFDF",
-    "confirmedCount": 2
-  },
-  "440500": {
-    "cityName": "汕头市",
-    "color": "#FF9F9F",
-    "confirmedCount": 25
-  },
-  "540100": {
-    "cityName": "拉萨市",
-    "color": "#FFDFDF",
-    "confirmedCount": 1
-  },
-  "440400": {
-    "cityName": "珠海市",
-    "color": "#CF0000",
-    "confirmedCount": 98
-  },
-  "511400": {
-    "cityName": "眉山市",
-    "color": "#FFDFDF",
-    "confirmedCount": 8
-  },
-  "420500": {
-    "cityName": "宜昌市",
-    "color": "#880000",
-    "confirmedCount": 931
-  },
-  "500119": {
-    "cityName": "南川区",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "610800": {
-    "cityName": "榆林市",
-    "color": "#FFDFDF",
-    "confirmedCount": 3
-  },
-  "150300": {
-    "cityName": "乌海市",
-    "color": "#FFDFDF",
-    "confirmedCount": 2
-  },
-  "441200": {
-    "cityName": "肇庆市",
-    "color": "#FFBFBF",
-    "confirmedCount": 19
-  },
-  "371700": {
-    "cityName": "菏泽市",
-    "color": "#FFBFBF",
-    "confirmedCount": 18
-  },
-  "410500": {
-    "cityName": "安阳市",
-    "color": "#FF3F3F",
-    "confirmedCount": 53
-  },
-  "513200": {
-    "cityName": "阿坝藏族羌族自治州",
-    "color": "#FFDFDF",
-    "confirmedCount": 1
-  },
-  "440900": {
-    "cityName": "茂名市",
-    "color": "#FFBFBF",
-    "confirmedCount": 14
-  },
-  "350900": {
-    "cityName": "宁德市",
-    "color": "#FF9F9F",
-    "confirmedCount": 26
-  },
-  "422800": {
-    "cityName": "恩施土家族苗族自治州",
-    "color": "#A00000",
-    "confirmedCount": 252
-  },
-  "441700": {
-    "cityName": "阳江市",
-    "color": "#FFBFBF",
-    "confirmedCount": 14
-  },
-  "710000": {
-    "cityName": "台湾",
-    "color": "#FF3F3F",
-    "confirmedCount": 59
-  },
-  "130800": {
-    "cityName": "承德市",
-    "color": "#FFDFDF",
-    "confirmedCount": 7
-  },
-  "620100": {
-    "cityName": "兰州市",
-    "color": "#FF7F7F",
-    "confirmedCount": 36
-  },
-  "340300": {
-    "cityName": "蚌埠市",
-    "color": "#B80000",
-    "confirmedCount": 160
-  },
-  "429004": {
-    "cityName": "仙桃市",
-    "color": "#880000",
-    "confirmedCount": 575
-  },
-  "230300": {
-    "cityName": "鸡西市",
-    "color": "#FF5F5F",
-    "confirmedCount": 46
-  },
-  "130900": {
-    "cityName": "沧州市",
-    "color": "#FF5F5F",
-    "confirmedCount": 48
-  },
-  "330800": {
-    "cityName": "衢州市",
-    "color": "#FFBFBF",
-    "confirmedCount": 14
-  },
-  "371300": {
-    "cityName": "临沂市",
-    "color": "#FF5F5F",
-    "confirmedCount": 49
-  },
-  "810000": {
-    "cityName": "香港",
-    "color": "#B80000",
-    "confirmedCount": 141
-  },
-  "522700": {
-    "cityName": "黔南布依族苗族自治州",
-    "color": "#FFBFBF",
-    "confirmedCount": 17
-  },
-  "341800": {
-    "cityName": "宣城市",
-    "color": "#FFDFDF",
-    "confirmedCount": 6
-  },
-  "510500": {
-    "cityName": "泸州市",
-    "color": "#FF9F9F",
-    "confirmedCount": 24
-  },
-  "450800": {
-    "cityName": "贵港市",
-    "color": "#FFDFDF",
-    "confirmedCount": 8
-  },
-  "500115": {
-    "cityName": "长寿区",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "130300": {
-    "cityName": "秦皇岛市",
-    "color": "#FFBFBF",
-    "confirmedCount": 10
-  },
-  "511000": {
-    "cityName": "内江市",
-    "color": "#FF9F9F",
-    "confirmedCount": 22
-  },
-  "411700": {
-    "cityName": "驻马店市",
-    "color": "#B80000",
-    "confirmedCount": 139
-  },
-  "411200": {
-    "cityName": "三门峡市",
-    "color": "#FFDFDF",
-    "confirmedCount": 7
-  },
-  "530100": {
-    "cityName": "昆明市",
-    "color": "#FF3F3F",
-    "confirmedCount": 53
-  },
-  "220700": {
-    "cityName": "松原市",
-    "color": "#FFDFDF",
-    "confirmedCount": 2
-  },
-  "232700": {
-    "cityName": "大兴安岭地区",
-    "color": "#FFDFDF",
-    "confirmedCount": 3
-  },
-  "211000": {
-    "cityName": "辽阳市",
-    "color": "#FFDFDF",
-    "confirmedCount": 3
-  },
-  "371400": {
-    "cityName": "德州市",
-    "color": "#FF7F7F",
-    "confirmedCount": 37
-  },
-  "310000": {
-    "cityName": "上海市",
-    "color": "#A00000",
-    "confirmedCount": 353
-  },
-  "340100": {
-    "cityName": "合肥市",
-    "color": "#B80000",
-    "confirmedCount": 174
-  },
-  "513400": {
-    "cityName": "凉山彝族自治州",
-    "color": "#FFBFBF",
-    "confirmedCount": 13
-  },
-  "230100": {
-    "cityName": "哈尔滨市",
-    "color": "#B80000",
-    "confirmedCount": 198
-  },
-  "370700": {
-    "cityName": "潍坊市",
-    "color": "#FF5F5F",
-    "confirmedCount": 44
-  },
-  "530500": {
-    "cityName": "保山市",
-    "color": "#FFDFDF",
-    "confirmedCount": 9
-  },
-  "469024": {
-    "cityName": "临高县",
-    "color": "#FFDFDF",
-    "confirmedCount": 6
-  },
-  "469021": {
-    "cityName": "定安县",
-    "color": "#FFDFDF",
-    "confirmedCount": 3
-  },
-  "371600": {
-    "cityName": "滨州市",
-    "color": "#FFBFBF",
-    "confirmedCount": 15
-  },
-  "520600": {
-    "cityName": "铜仁市",
-    "color": "#FFBFBF",
-    "confirmedCount": 10
-  },
-  "532800": {
-    "cityName": "西双版纳傣族自治州",
-    "color": "#FFBFBF",
-    "confirmedCount": 15
-  },
-  "361100": {
-    "cityName": "上饶市",
-    "color": "#B80000",
-    "confirmedCount": 123
-  },
-  "540400": {
-    "cityName": "林芝市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "410700": {
-    "cityName": "新乡市",
-    "color": "#FF3F3F",
-    "confirmedCount": 57
-  },
-  "150200": {
-    "cityName": "包头市",
-    "color": "#FFBFBF",
-    "confirmedCount": 11
-  },
-  "500110": {
-    "cityName": "綦江区",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "431000": {
-    "cityName": "郴州市",
-    "color": "#FF7F7F",
-    "confirmedCount": 39
-  },
-  "321100": {
-    "cityName": "镇江市",
-    "color": "#FFBFBF",
-    "confirmedCount": 12
-  },
-  "610400": {
-    "cityName": "咸阳市",
-    "color": "#FFBFBF",
-    "confirmedCount": 17
-  },
-  "430100": {
-    "cityName": "长沙市",
-    "color": "#A00000",
-    "confirmedCount": 242
-  },
-  "429006": {
-    "cityName": "天门市",
-    "color": "#A00000",
-    "confirmedCount": 496
-  },
-  "341500": {
-    "cityName": "六安市",
-    "color": "#FF1F1F",
-    "confirmedCount": 69
-  },
-  "510800": {
-    "cityName": "广元市",
-    "color": "#FFDFDF",
-    "confirmedCount": 6
-  },
-  "469027": {
-    "cityName": "乐东黎族自治县",
-    "color": "#FFDFDF",
-    "confirmedCount": 2
-  },
-  "650200": {
-    "cityName": "克拉玛依市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "320100": {
-    "cityName": "南京市",
-    "color": "#CF0000",
-    "confirmedCount": 93
-  },
-  "533300": {
-    "cityName": "怒江傈僳族自治州",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "361000": {
-    "cityName": "抚州市",
-    "color": "#FF0000",
-    "confirmedCount": 72
-  },
-  "640400": {
-    "cityName": "固原市",
-    "color": "#FFDFDF",
-    "confirmedCount": 5
-  },
-  "341700": {
-    "cityName": "池州市",
-    "color": "#FFBFBF",
-    "confirmedCount": 17
-  },
-  "131000": {
-    "cityName": "廊坊市",
-    "color": "#FF9F9F",
-    "confirmedCount": 30
-  },
-  "451200": {
-    "cityName": "河池市",
-    "color": "#FF9F9F",
-    "confirmedCount": 28
-  },
-  "320500": {
-    "cityName": "苏州市",
-    "color": "#E70000",
-    "confirmedCount": 87
-  },
-  "511100": {
-    "cityName": "乐山市",
-    "color": "#FFDFDF",
-    "confirmedCount": 3
-  },
-  "610100": {
-    "cityName": "西安市",
-    "color": "#B80000",
-    "confirmedCount": 120
-  },
-  "410200": {
-    "cityName": "开封市",
-    "color": "#FF9F9F",
-    "confirmedCount": 26
-  },
-  "532600": {
-    "cityName": "文山壮族苗族自治州",
-    "color": "#FFDFDF",
-    "confirmedCount": 2
-  },
-  "500231": {
-    "cityName": "垫江县",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "411000": {
-    "cityName": "许昌市",
-    "color": "#FF7F7F",
-    "confirmedCount": 39
-  },
-  "652900": {
-    "cityName": "阿克苏地区",
-    "color": "#FFDFDF",
-    "confirmedCount": 1
-  },
-  "500241": {
-    "cityName": "秀山土家族苗族自治县",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "431200": {
-    "cityName": "怀化市",
-    "color": "#FF7F7F",
-    "confirmedCount": 40
-  },
-  "130500": {
-    "cityName": "邢台市",
-    "color": "#FF9F9F",
-    "confirmedCount": 23
-  },
-  "542500": {
-    "cityName": "阿里地区",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "210600": {
-    "cityName": "丹东市",
-    "color": "#FFBFBF",
-    "confirmedCount": 11
-  },
-  "500151": {
-    "cityName": "铜梁区",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "350800": {
-    "cityName": "龙岩市",
-    "color": "#FFDFDF",
-    "confirmedCount": 6
-  },
-  "370900": {
-    "cityName": "泰安市",
-    "color": "#FF7F7F",
-    "confirmedCount": 35
-  },
-  "653100": {
-    "cityName": "喀什地区",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "141000": {
-    "cityName": "临汾市",
-    "color": "#FFDFDF",
-    "confirmedCount": 2
-  },
-  "640100": {
-    "cityName": "银川市",
-    "color": "#FF7F7F",
-    "confirmedCount": 37
-  },
-  "320700": {
-    "cityName": "连云港市",
-    "color": "#FF5F5F",
-    "confirmedCount": 48
-  },
-  "350200": {
-    "cityName": "厦门市",
-    "color": "#FF7F7F",
-    "confirmedCount": 35
-  },
-  "130400": {
-    "cityName": "邯郸市",
-    "color": "#FF7F7F",
-    "confirmedCount": 32
-  },
-  "140200": {
-    "cityName": "大同市",
-    "color": "#FFBFBF",
-    "confirmedCount": 12
-  },
-  "220500": {
-    "cityName": "通化市",
-    "color": "#FFDFDF",
-    "confirmedCount": 6
-  },
-  "411500": {
-    "cityName": "信阳市",
-    "color": "#A00000",
-    "confirmedCount": 274
-  },
-  "610700": {
-    "cityName": "汉中市",
-    "color": "#FF9F9F",
-    "confirmedCount": 26
-  },
-  "659007": {
-    "cityName": "双河市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "330300": {
-    "cityName": "温州市",
-    "color": "#880000",
-    "confirmedCount": 504
-  },
-  "500108": {
-    "cityName": "南岸区",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "540200": {
-    "cityName": "日喀则市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "140100": {
-    "cityName": "太原市",
-    "color": "#FFBFBF",
-    "confirmedCount": 20
-  },
-  "430200": {
-    "cityName": "株洲市",
-    "color": "#FF0000",
-    "confirmedCount": 80
-  },
-  "500114": {
-    "cityName": "黔江区",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "650100": {
-    "cityName": "乌鲁木齐市",
-    "color": "#FF9F9F",
-    "confirmedCount": 23
-  },
-  "220600": {
-    "cityName": "白山市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "441500": {
-    "cityName": "汕尾市",
-    "color": "#FFDFDF",
-    "confirmedCount": 5
-  },
-  "150500": {
-    "cityName": "通辽市",
-    "color": "#FFDFDF",
-    "confirmedCount": 7
-  },
-  "220300": {
-    "cityName": "四平市",
-    "color": "#FF9F9F",
-    "confirmedCount": 21
-  },
-  "640200": {
-    "cityName": "石嘴山市",
-    "color": "#FFDFDF",
-    "confirmedCount": 1
-  },
-  "469023": {
-    "cityName": "澄迈县",
-    "color": "#FFDFDF",
-    "confirmedCount": 9
-  },
-  "533100": {
-    "cityName": "德宏傣族景颇族自治州",
-    "color": "#FFDFDF",
-    "confirmedCount": 5
-  },
-  "532500": {
-    "cityName": "红河哈尼族彝族自治州",
-    "color": "#FFDFDF",
-    "confirmedCount": 9
   },
   "330900": {
     "cityName": "舟山市",
@@ -979,348 +24,28 @@
     "color": "#FFDFDF",
     "confirmedCount": 8
   },
-  "441300": {
-    "cityName": "惠州市",
-    "color": "#FF1F1F",
-    "confirmedCount": 62
-  },
-  "350400": {
-    "cityName": "三明市",
-    "color": "#FFBFBF",
-    "confirmedCount": 14
-  },
-  "140900": {
-    "cityName": "忻州市",
-    "color": "#FFDFDF",
-    "confirmedCount": 7
-  },
-  "610300": {
-    "cityName": "宝鸡市",
-    "color": "#FFBFBF",
-    "confirmedCount": 13
-  },
-  "520200": {
-    "cityName": "六盘水市",
-    "color": "#FFBFBF",
-    "confirmedCount": 10
-  },
-  "420900": {
-    "cityName": "孝感市",
-    "color": "#590000",
-    "confirmedCount": 3518
-  },
-  "500118": {
-    "cityName": "永川区",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "340600": {
-    "cityName": "淮北市",
+  "340400": {
+    "cityName": "淮南市",
     "color": "#FF9F9F",
     "confirmedCount": 27
   },
-  "620500": {
-    "cityName": "天水市",
-    "color": "#FFBFBF",
-    "confirmedCount": 12
+  "141000": {
+    "cityName": "临汾市",
+    "color": "#FFDFDF",
+    "confirmedCount": 2
   },
-  "630100": {
-    "cityName": "西宁市",
-    "color": "#FFBFBF",
-    "confirmedCount": 15
-  },
-  "540500": {
-    "cityName": "山南市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "360300": {
-    "cityName": "萍乡市",
+  "640100": {
+    "cityName": "银川市",
     "color": "#FF7F7F",
-    "confirmedCount": 33
+    "confirmedCount": 37
   },
-  "341600": {
-    "cityName": "亳州市",
-    "color": "#B80000",
-    "confirmedCount": 108
-  },
-  "360800": {
-    "cityName": "吉安市",
-    "color": "#FF9F9F",
-    "confirmedCount": 22
-  },
-  "410100": {
-    "cityName": "郑州市",
-    "color": "#B80000",
-    "confirmedCount": 158
-  },
-  "652300": {
-    "cityName": "昌吉回族自治州",
-    "color": "#FFDFDF",
-    "confirmedCount": 4
-  },
-  "451400": {
-    "cityName": "崇左市",
+  "500107": {
+    "cityName": "九龙坡区",
     "color": "#FFFFFF",
     "confirmedCount": 0
   },
-  "654000": {
-    "cityName": "伊犁哈萨克自治州",
-    "color": "#FFBFBF",
-    "confirmedCount": 18
-  },
-  "445100": {
-    "cityName": "潮州市",
-    "color": "#FFDFDF",
-    "confirmedCount": 5
-  },
-  "469005": {
-    "cityName": "文昌市",
-    "color": "#FFDFDF",
-    "confirmedCount": 3
-  },
-  "620900": {
-    "cityName": "酒泉市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "469001": {
-    "cityName": "五指山市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "654200": {
-    "cityName": "塔城地区",
-    "color": "#FFDFDF",
-    "confirmedCount": 5
-  },
-  "410400": {
-    "cityName": "平顶山市",
-    "color": "#FF3F3F",
-    "confirmedCount": 58
-  },
-  "512000": {
-    "cityName": "资阳市",
-    "color": "#FFDFDF",
-    "confirmedCount": 4
-  },
-  "450900": {
-    "cityName": "玉林市",
-    "color": "#FFBFBF",
-    "confirmedCount": 11
-  },
-  "420100": {
-    "cityName": "武汉市",
-    "color": "#420001",
-    "confirmedCount": 49999
-  },
-  "500230": {
-    "cityName": "丰都县",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "350700": {
-    "cityName": "南平市",
-    "color": "#FFBFBF",
-    "confirmedCount": 20
-  },
-  "440100": {
-    "cityName": "广州市",
-    "color": "#A00000",
-    "confirmedCount": 347
-  },
-  "420600": {
-    "cityName": "襄阳市",
-    "color": "#710000",
-    "confirmedCount": 1175
-  },
-  "620800": {
-    "cityName": "平凉市",
-    "color": "#FFDFDF",
-    "confirmedCount": 9
-  },
-  "510900": {
-    "cityName": "遂宁市",
-    "color": "#FFBFBF",
-    "confirmedCount": 17
-  },
-  "441900": {
-    "cityName": "东莞市",
-    "color": "#CF0000",
-    "confirmedCount": 100
-  },
-  "500106": {
-    "cityName": "沙坪坝区",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "511300": {
-    "cityName": "南充市",
-    "color": "#FF7F7F",
-    "confirmedCount": 39
-  },
-  "231100": {
-    "cityName": "黑河市",
-    "color": "#FFBFBF",
-    "confirmedCount": 14
-  },
-  "632700": {
-    "cityName": "玉树藏族自治州",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "350600": {
-    "cityName": "漳州市",
-    "color": "#FFBFBF",
-    "confirmedCount": 20
-  },
-  "150900": {
-    "cityName": "乌兰察布市",
-    "color": "#FFDFDF",
-    "confirmedCount": 3
-  },
-  "530600": {
-    "cityName": "昭通市",
-    "color": "#FF9F9F",
-    "confirmedCount": 25
-  },
-  "433100": {
-    "cityName": "湘西土家族苗族自治州",
-    "color": "#FFDFDF",
-    "confirmedCount": 8
-  },
-  "370400": {
-    "cityName": "枣庄市",
-    "color": "#FF9F9F",
-    "confirmedCount": 24
-  },
-  "152500": {
-    "cityName": "锡林郭勒盟",
-    "color": "#FFDFDF",
-    "confirmedCount": 9
-  },
-  "370600": {
-    "cityName": "烟台市",
-    "color": "#FF5F5F",
-    "confirmedCount": 47
-  },
-  "500105": {
-    "cityName": "江北区",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "360200": {
-    "cityName": "景德镇市",
-    "color": "#FFDFDF",
-    "confirmedCount": 6
-  },
-  "210500": {
-    "cityName": "本溪市",
-    "color": "#FFDFDF",
-    "confirmedCount": 3
-  },
-  "500120": {
-    "cityName": "璧山区",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "500116": {
-    "cityName": "江津区",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "150700": {
-    "cityName": "呼伦贝尔市",
-    "color": "#FFDFDF",
-    "confirmedCount": 7
-  },
-  "211200": {
-    "cityName": "铁岭市",
-    "color": "#FFDFDF",
-    "confirmedCount": 7
-  },
-  "620600": {
-    "cityName": "武威市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "340800": {
-    "cityName": "安庆市",
-    "color": "#E70000",
-    "confirmedCount": 83
-  },
-  "500240": {
-    "cityName": "石柱土家族自治县",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "140800": {
-    "cityName": "运城市",
-    "color": "#FFBFBF",
-    "confirmedCount": 19
-  },
-  "420700": {
-    "cityName": "鄂州市",
-    "color": "#710000",
-    "confirmedCount": 1394
-  },
-  "500111": {
-    "cityName": "大足区",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "152200": {
-    "cityName": "兴安盟",
-    "color": "#FFDFDF",
-    "confirmedCount": 1
-  },
-  "331100": {
-    "cityName": "丽水市",
-    "color": "#FF9F9F",
-    "confirmedCount": 28
-  },
-  "460200": {
-    "cityName": "三亚市",
-    "color": "#FF3F3F",
-    "confirmedCount": 54
-  },
-  "321000": {
-    "cityName": "扬州市",
-    "color": "#FF9F9F",
-    "confirmedCount": 23
-  },
-  "500156": {
-    "cityName": "武隆区",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "659005": {
-    "cityName": "北屯市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "220800": {
-    "cityName": "白城市",
-    "color": "#FFDFDF",
-    "confirmedCount": 1
-  },
-  "530800": {
-    "cityName": "普洱市",
-    "color": "#FFDFDF",
-    "confirmedCount": 4
-  },
-  "659009": {
-    "cityName": "昆玉市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "500153": {
-    "cityName": "荣昌区",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "654300": {
-    "cityName": "阿勒泰地区",
+  "445300": {
+    "cityName": "云浮市",
     "color": "#FFFFFF",
     "confirmedCount": 0
   },
@@ -1329,113 +54,128 @@
     "color": "#FF9F9F",
     "confirmedCount": 29
   },
-  "360600": {
-    "cityName": "鹰潭市",
-    "color": "#FFBFBF",
-    "confirmedCount": 18
-  },
-  "130600": {
-    "cityName": "保定市",
-    "color": "#FF7F7F",
-    "confirmedCount": 32
-  },
-  "341000": {
-    "cityName": "黄山市",
-    "color": "#FFDFDF",
-    "confirmedCount": 9
-  },
-  "430500": {
-    "cityName": "邵阳市",
-    "color": "#B80000",
-    "confirmedCount": 102
-  },
-  "610200": {
-    "cityName": "铜川市",
-    "color": "#FFDFDF",
-    "confirmedCount": 8
-  },
-  "520400": {
-    "cityName": "安顺市",
-    "color": "#FFDFDF",
-    "confirmedCount": 4
-  },
-  "620400": {
-    "cityName": "白银市",
-    "color": "#FFDFDF",
-    "confirmedCount": 4
-  },
-  "450600": {
-    "cityName": "防城港市",
-    "color": "#FFBFBF",
-    "confirmedCount": 19
-  },
-  "500155": {
-    "cityName": "梁平区",
+  "469022": {
+    "cityName": "屯昌县",
     "color": "#FFFFFF",
     "confirmedCount": 0
   },
-  "340400": {
-    "cityName": "淮南市",
-    "color": "#FF9F9F",
-    "confirmedCount": 27
+  "330600": {
+    "cityName": "绍兴市",
+    "color": "#FF5F5F",
+    "confirmedCount": 42
   },
-  "530300": {
-    "cityName": "曲靖市",
+  "130700": {
+    "cityName": "张家口市",
+    "color": "#FF5F5F",
+    "confirmedCount": 41
+  },
+  "230900": {
+    "cityName": "七台河市",
     "color": "#FFBFBF",
-    "confirmedCount": 13
+    "confirmedCount": 17
   },
-  "440800": {
-    "cityName": "湛江市",
-    "color": "#FF9F9F",
-    "confirmedCount": 22
+  "620900": {
+    "cityName": "酒泉市",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
   },
   "450500": {
     "cityName": "北海市",
     "color": "#FF5F5F",
     "confirmedCount": 44
   },
-  "350100": {
-    "cityName": "福州市",
-    "color": "#FF0000",
-    "confirmedCount": 72
-  },
-  "500000": {
-    "cityName": "重庆市",
+  "429004": {
+    "cityName": "仙桃市",
     "color": "#880000",
-    "confirmedCount": 576
+    "confirmedCount": 575
   },
-  "431100": {
-    "cityName": "永州市",
-    "color": "#FF5F5F",
-    "confirmedCount": 44
+  "510100": {
+    "cityName": "成都市",
+    "color": "#B80000",
+    "confirmedCount": 144
   },
-  "450100": {
-    "cityName": "南宁市",
-    "color": "#FF3F3F",
-    "confirmedCount": 55
+  "429021": {
+    "cityName": "神农架林区",
+    "color": "#FFBFBF",
+    "confirmedCount": 11
   },
-  "610900": {
-    "cityName": "安康市",
+  "500154": {
+    "cityName": "开州区",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "150500": {
+    "cityName": "通辽市",
+    "color": "#FFDFDF",
+    "confirmedCount": 7
+  },
+  "420800": {
+    "cityName": "荆门市",
+    "color": "#880000",
+    "confirmedCount": 928
+  },
+  "410200": {
+    "cityName": "开封市",
     "color": "#FF9F9F",
     "confirmedCount": 26
   },
-  "511900": {
-    "cityName": "巴中市",
-    "color": "#FF9F9F",
-    "confirmedCount": 24
+  "350400": {
+    "cityName": "三明市",
+    "color": "#FFBFBF",
+    "confirmedCount": 14
   },
-  "460400": {
-    "cityName": "儋州市",
+  "450300": {
+    "cityName": "桂林市",
+    "color": "#FF7F7F",
+    "confirmedCount": 32
+  },
+  "411700": {
+    "cityName": "驻马店市",
+    "color": "#B80000",
+    "confirmedCount": 139
+  },
+  "530500": {
+    "cityName": "保山市",
+    "color": "#FFDFDF",
+    "confirmedCount": 9
+  },
+  "231100": {
+    "cityName": "黑河市",
+    "color": "#FFBFBF",
+    "confirmedCount": 14
+  },
+  "431200": {
+    "cityName": "怀化市",
+    "color": "#FF7F7F",
+    "confirmedCount": 40
+  },
+  "210400": {
+    "cityName": "抚顺市",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "330400": {
+    "cityName": "嘉兴市",
+    "color": "#FF5F5F",
+    "confirmedCount": 45
+  },
+  "231000": {
+    "cityName": "牡丹江市",
     "color": "#FFBFBF",
     "confirmedCount": 15
   },
-  "510400": {
-    "cityName": "攀枝花市",
-    "color": "#FFBFBF",
-    "confirmedCount": 16
+  "542500": {
+    "cityName": "阿里地区",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
   },
-  "653000": {
-    "cityName": "克孜勒苏柯尔克孜自治州",
+  "500153": {
+    "cityName": "荣昌区",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "500109": {
+    "cityName": "北碚区",
     "color": "#FFFFFF",
     "confirmedCount": 0
   },
@@ -1444,145 +184,1245 @@
     "color": "#FFFFFF",
     "confirmedCount": 0
   },
-  "120000": {
-    "cityName": "天津市",
-    "color": "#B80000",
-    "confirmedCount": 136
+  "320400": {
+    "cityName": "常州市",
+    "color": "#FF3F3F",
+    "confirmedCount": 51
   },
-  "659008": {
-    "cityName": "可克达拉市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "530400": {
-    "cityName": "玉溪市",
-    "color": "#FFBFBF",
-    "confirmedCount": 14
-  },
-  "630200": {
-    "cityName": "海东市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "440300": {
-    "cityName": "深圳市",
-    "color": "#A00000",
-    "confirmedCount": 421
-  },
-  "640500": {
-    "cityName": "中卫市",
+  "211000": {
+    "cityName": "辽阳市",
     "color": "#FFDFDF",
-    "confirmedCount": 4
+    "confirmedCount": 3
   },
-  "330400": {
-    "cityName": "嘉兴市",
-    "color": "#FF5F5F",
-    "confirmedCount": 45
-  },
-  "210200": {
-    "cityName": "大连市",
+  "610500": {
+    "cityName": "渭南市",
     "color": "#FFBFBF",
-    "confirmedCount": 19
+    "confirmedCount": 16
   },
-  "110000": {
-    "cityName": "北京市",
-    "color": "#A00000",
-    "confirmedCount": 442
+  "520200": {
+    "cityName": "六盘水市",
+    "color": "#FFBFBF",
+    "confirmedCount": 10
   },
-  "450700": {
-    "cityName": "钦州市",
+  "520600": {
+    "cityName": "铜仁市",
+    "color": "#FFBFBF",
+    "confirmedCount": 10
+  },
+  "350300": {
+    "cityName": "莆田市",
+    "color": "#FF3F3F",
+    "confirmedCount": 56
+  },
+  "530600": {
+    "cityName": "昭通市",
+    "color": "#FF9F9F",
+    "confirmedCount": 25
+  },
+  "370200": {
+    "cityName": "青岛市",
+    "color": "#FF1F1F",
+    "confirmedCount": 61
+  },
+  "230300": {
+    "cityName": "鸡西市",
+    "color": "#FF5F5F",
+    "confirmedCount": 46
+  },
+  "469024": {
+    "cityName": "临高县",
+    "color": "#FFDFDF",
+    "confirmedCount": 6
+  },
+  "231200": {
+    "cityName": "绥化市",
+    "color": "#FF5F5F",
+    "confirmedCount": 47
+  },
+  "230600": {
+    "cityName": "大庆市",
+    "color": "#FF9F9F",
+    "confirmedCount": 26
+  },
+  "632500": {
+    "cityName": "海南藏族自治州",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "469001": {
+    "cityName": "五指山市",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "500108": {
+    "cityName": "南岸区",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "150300": {
+    "cityName": "乌海市",
+    "color": "#FFDFDF",
+    "confirmedCount": 2
+  },
+  "522700": {
+    "cityName": "黔南布依族苗族自治州",
+    "color": "#FFBFBF",
+    "confirmedCount": 17
+  },
+  "500000": {
+    "cityName": "重庆市",
+    "color": "#880000",
+    "confirmedCount": 576
+  },
+  "500231": {
+    "cityName": "垫江县",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "640400": {
+    "cityName": "固原市",
+    "color": "#FFDFDF",
+    "confirmedCount": 5
+  },
+  "360500": {
+    "cityName": "新余市",
+    "color": "#B80000",
+    "confirmedCount": 130
+  },
+  "410500": {
+    "cityName": "安阳市",
+    "color": "#FF3F3F",
+    "confirmedCount": 53
+  },
+  "429005": {
+    "cityName": "潜江市",
+    "color": "#B80000",
+    "confirmedCount": 198
+  },
+  "632200": {
+    "cityName": "海北藏族自治州",
+    "color": "#FFDFDF",
+    "confirmedCount": 3
+  },
+  "141100": {
+    "cityName": "吕梁市",
+    "color": "#FFDFDF",
+    "confirmedCount": 6
+  },
+  "140100": {
+    "cityName": "太原市",
+    "color": "#FFBFBF",
+    "confirmedCount": 20
+  },
+  "341600": {
+    "cityName": "亳州市",
+    "color": "#B80000",
+    "confirmedCount": 108
+  },
+  "232700": {
+    "cityName": "大兴安岭地区",
+    "color": "#FFDFDF",
+    "confirmedCount": 3
+  },
+  "341800": {
+    "cityName": "宣城市",
+    "color": "#FFDFDF",
+    "confirmedCount": 6
+  },
+  "511400": {
+    "cityName": "眉山市",
     "color": "#FFDFDF",
     "confirmedCount": 8
   },
-  "320200": {
-    "cityName": "无锡市",
+  "513200": {
+    "cityName": "阿坝藏族羌族自治州",
+    "color": "#FFDFDF",
+    "confirmedCount": 1
+  },
+  "610700": {
+    "cityName": "汉中市",
+    "color": "#FF9F9F",
+    "confirmedCount": 26
+  },
+  "210100": {
+    "cityName": "沈阳市",
+    "color": "#FF9F9F",
+    "confirmedCount": 28
+  },
+  "510500": {
+    "cityName": "泸州市",
+    "color": "#FF9F9F",
+    "confirmedCount": 24
+  },
+  "440500": {
+    "cityName": "汕头市",
+    "color": "#FF9F9F",
+    "confirmedCount": 25
+  },
+  "533400": {
+    "cityName": "迪庆藏族自治州",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "330300": {
+    "cityName": "温州市",
+    "color": "#880000",
+    "confirmedCount": 504
+  },
+  "410100": {
+    "cityName": "郑州市",
+    "color": "#B80000",
+    "confirmedCount": 158
+  },
+  "411300": {
+    "cityName": "南阳市",
+    "color": "#B80000",
+    "confirmedCount": 156
+  },
+  "500115": {
+    "cityName": "长寿区",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "330500": {
+    "cityName": "湖州市",
+    "color": "#FFBFBF",
+    "confirmedCount": 12
+  },
+  "450900": {
+    "cityName": "玉林市",
+    "color": "#FFBFBF",
+    "confirmedCount": 11
+  },
+  "222400": {
+    "cityName": "延边朝鲜族自治州",
+    "color": "#FFDFDF",
+    "confirmedCount": 5
+  },
+  "330700": {
+    "cityName": "金华市",
     "color": "#FF3F3F",
     "confirmedCount": 55
   },
-  "430800": {
-    "cityName": "张家界市",
+  "430200": {
+    "cityName": "株洲市",
+    "color": "#FF0000",
+    "confirmedCount": 80
+  },
+  "421300": {
+    "cityName": "随州市",
+    "color": "#710000",
+    "confirmedCount": 1307
+  },
+  "370600": {
+    "cityName": "烟台市",
+    "color": "#FF5F5F",
+    "confirmedCount": 47
+  },
+  "469005": {
+    "cityName": "文昌市",
+    "color": "#FFDFDF",
+    "confirmedCount": 3
+  },
+  "511900": {
+    "cityName": "巴中市",
+    "color": "#FF9F9F",
+    "confirmedCount": 24
+  },
+  "533100": {
+    "cityName": "德宏傣族景颇族自治州",
     "color": "#FFDFDF",
     "confirmedCount": 5
+  },
+  "431300": {
+    "cityName": "娄底市",
+    "color": "#FF0000",
+    "confirmedCount": 76
+  },
+  "371200": {
+    "cityName": "莱芜市",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "520400": {
+    "cityName": "安顺市",
+    "color": "#FFDFDF",
+    "confirmedCount": 4
+  },
+  "540200": {
+    "cityName": "日喀则市",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "540500": {
+    "cityName": "山南市",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "220600": {
+    "cityName": "白山市",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "441900": {
+    "cityName": "东莞市",
+    "color": "#CF0000",
+    "confirmedCount": 100
+  },
+  "469025": {
+    "cityName": "白沙黎族自治县",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "371300": {
+    "cityName": "临沂市",
+    "color": "#FF5F5F",
+    "confirmedCount": 49
+  },
+  "611000": {
+    "cityName": "商洛市",
+    "color": "#FFDFDF",
+    "confirmedCount": 7
+  },
+  "500235": {
+    "cityName": "云阳县",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "130300": {
+    "cityName": "秦皇岛市",
+    "color": "#FFBFBF",
+    "confirmedCount": 10
+  },
+  "211400": {
+    "cityName": "葫芦岛市",
+    "color": "#FFBFBF",
+    "confirmedCount": 12
+  },
+  "451000": {
+    "cityName": "百色市",
+    "color": "#FFDFDF",
+    "confirmedCount": 3
+  },
+  "530100": {
+    "cityName": "昆明市",
+    "color": "#FF3F3F",
+    "confirmedCount": 53
   },
   "500242": {
     "cityName": "酉阳土家族苗族自治县",
     "color": "#FFFFFF",
     "confirmedCount": 0
   },
-  "500104": {
-    "cityName": "大渡口区",
+  "210300": {
+    "cityName": "鞍山市",
+    "color": "#FFDFDF",
+    "confirmedCount": 4
+  },
+  "340700": {
+    "cityName": "铜陵市",
+    "color": "#FF9F9F",
+    "confirmedCount": 29
+  },
+  "431100": {
+    "cityName": "永州市",
+    "color": "#FF5F5F",
+    "confirmedCount": 44
+  },
+  "430900": {
+    "cityName": "益阳市",
+    "color": "#FF3F3F",
+    "confirmedCount": 60
+  },
+  "130500": {
+    "cityName": "邢台市",
+    "color": "#FF9F9F",
+    "confirmedCount": 23
+  },
+  "451100": {
+    "cityName": "贺州市",
+    "color": "#FFDFDF",
+    "confirmedCount": 4
+  },
+  "320100": {
+    "cityName": "南京市",
+    "color": "#CF0000",
+    "confirmedCount": 93
+  },
+  "360700": {
+    "cityName": "赣州市",
+    "color": "#FF0000",
+    "confirmedCount": 76
+  },
+  "440100": {
+    "cityName": "广州市",
+    "color": "#A00000",
+    "confirmedCount": 347
+  },
+  "540600": {
+    "cityName": "那曲市",
     "color": "#FFFFFF",
     "confirmedCount": 0
   },
-  "330200": {
-    "cityName": "宁波市",
-    "color": "#B80000",
-    "confirmedCount": 157
-  },
-  "410800": {
-    "cityName": "焦作市",
-    "color": "#FF7F7F",
-    "confirmedCount": 32
-  },
-  "130200": {
-    "cityName": "唐山市",
+  "320200": {
+    "cityName": "无锡市",
     "color": "#FF3F3F",
-    "confirmedCount": 58
+    "confirmedCount": 55
   },
-  "360900": {
-    "cityName": "宜春市",
+  "230400": {
+    "cityName": "鹤岗市",
+    "color": "#FFDFDF",
+    "confirmedCount": 5
+  },
+  "420700": {
+    "cityName": "鄂州市",
+    "color": "#710000",
+    "confirmedCount": 1394
+  },
+  "650500": {
+    "cityName": "哈密市",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "130800": {
+    "cityName": "承德市",
+    "color": "#FFDFDF",
+    "confirmedCount": 7
+  },
+  "510900": {
+    "cityName": "遂宁市",
+    "color": "#FFBFBF",
+    "confirmedCount": 17
+  },
+  "341100": {
+    "cityName": "滁州市",
+    "color": "#FFBFBF",
+    "confirmedCount": 13
+  },
+  "511300": {
+    "cityName": "南充市",
+    "color": "#FF7F7F",
+    "confirmedCount": 39
+  },
+  "150100": {
+    "cityName": "呼和浩特市",
+    "color": "#FFDFDF",
+    "confirmedCount": 7
+  },
+  "350800": {
+    "cityName": "龙岩市",
+    "color": "#FFDFDF",
+    "confirmedCount": 6
+  },
+  "420100": {
+    "cityName": "武汉市",
+    "color": "#420001",
+    "confirmedCount": 49999
+  },
+  "371000": {
+    "cityName": "威海市",
+    "color": "#FF7F7F",
+    "confirmedCount": 38
+  },
+  "360100": {
+    "cityName": "南昌市",
+    "color": "#A00000",
+    "confirmedCount": 230
+  },
+  "331100": {
+    "cityName": "丽水市",
+    "color": "#FF9F9F",
+    "confirmedCount": 28
+  },
+  "620800": {
+    "cityName": "平凉市",
+    "color": "#FFDFDF",
+    "confirmedCount": 9
+  },
+  "620500": {
+    "cityName": "天水市",
+    "color": "#FFBFBF",
+    "confirmedCount": 12
+  },
+  "411200": {
+    "cityName": "三门峡市",
+    "color": "#FFDFDF",
+    "confirmedCount": 7
+  },
+  "532500": {
+    "cityName": "红河哈尼族彝族自治州",
+    "color": "#FFDFDF",
+    "confirmedCount": 9
+  },
+  "131000": {
+    "cityName": "廊坊市",
+    "color": "#FF9F9F",
+    "confirmedCount": 30
+  },
+  "451200": {
+    "cityName": "河池市",
+    "color": "#FF9F9F",
+    "confirmedCount": 28
+  },
+  "140700": {
+    "cityName": "晋中市",
+    "color": "#FF7F7F",
+    "confirmedCount": 37
+  },
+  "140600": {
+    "cityName": "朔州市",
+    "color": "#FFDFDF",
+    "confirmedCount": 8
+  },
+  "450100": {
+    "cityName": "南宁市",
+    "color": "#FF3F3F",
+    "confirmedCount": 55
+  },
+  "511800": {
+    "cityName": "雅安市",
+    "color": "#FFDFDF",
+    "confirmedCount": 7
+  },
+  "460100": {
+    "cityName": "海口市",
+    "color": "#FF7F7F",
+    "confirmedCount": 39
+  },
+  "511700": {
+    "cityName": "达州市",
+    "color": "#FF5F5F",
+    "confirmedCount": 42
+  },
+  "411000": {
+    "cityName": "许昌市",
+    "color": "#FF7F7F",
+    "confirmedCount": 39
+  },
+  "341000": {
+    "cityName": "黄山市",
+    "color": "#FFDFDF",
+    "confirmedCount": 9
+  },
+  "440900": {
+    "cityName": "茂名市",
+    "color": "#FFBFBF",
+    "confirmedCount": 14
+  },
+  "120000": {
+    "cityName": "天津市",
     "color": "#B80000",
-    "confirmedCount": 106
+    "confirmedCount": 136
+  },
+  "441600": {
+    "cityName": "河源市",
+    "color": "#FFDFDF",
+    "confirmedCount": 4
+  },
+  "411600": {
+    "cityName": "周口市",
+    "color": "#FF0000",
+    "confirmedCount": 76
+  },
+  "653000": {
+    "cityName": "克孜勒苏柯尔克孜自治州",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "652300": {
+    "cityName": "昌吉回族自治州",
+    "color": "#FFDFDF",
+    "confirmedCount": 4
+  },
+  "320700": {
+    "cityName": "连云港市",
+    "color": "#FF5F5F",
+    "confirmedCount": 48
+  },
+  "632800": {
+    "cityName": "海西蒙古族藏族自治州",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "500116": {
+    "cityName": "江津区",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "532900": {
+    "cityName": "大理白族自治州",
+    "color": "#FFBFBF",
+    "confirmedCount": 13
+  },
+  "654000": {
+    "cityName": "伊犁哈萨克自治州",
+    "color": "#FFBFBF",
+    "confirmedCount": 18
+  },
+  "130900": {
+    "cityName": "沧州市",
+    "color": "#FF5F5F",
+    "confirmedCount": 48
+  },
+  "630100": {
+    "cityName": "西宁市",
+    "color": "#FFBFBF",
+    "confirmedCount": 15
+  },
+  "622900": {
+    "cityName": "临夏回族自治州",
+    "color": "#FFDFDF",
+    "confirmedCount": 3
+  },
+  "350700": {
+    "cityName": "南平市",
+    "color": "#FFBFBF",
+    "confirmedCount": 20
+  },
+  "500102": {
+    "cityName": "涪陵区",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "220400": {
+    "cityName": "辽源市",
+    "color": "#FFDFDF",
+    "confirmedCount": 7
+  },
+  "350500": {
+    "cityName": "泉州市",
+    "color": "#FF5F5F",
+    "confirmedCount": 47
+  },
+  "220500": {
+    "cityName": "通化市",
+    "color": "#FFDFDF",
+    "confirmedCount": 6
+  },
+  "220300": {
+    "cityName": "四平市",
+    "color": "#FF9F9F",
+    "confirmedCount": 21
+  },
+  "370300": {
+    "cityName": "淄博市",
+    "color": "#FF9F9F",
+    "confirmedCount": 30
+  },
+  "152200": {
+    "cityName": "兴安盟",
+    "color": "#FFDFDF",
+    "confirmedCount": 1
+  },
+  "610400": {
+    "cityName": "咸阳市",
+    "color": "#FFBFBF",
+    "confirmedCount": 17
+  },
+  "654300": {
+    "cityName": "阿勒泰地区",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "532800": {
+    "cityName": "西双版纳傣族自治州",
+    "color": "#FFBFBF",
+    "confirmedCount": 15
+  },
+  "370100": {
+    "cityName": "济南市",
+    "color": "#FF5F5F",
+    "confirmedCount": 47
+  },
+  "610900": {
+    "cityName": "安康市",
+    "color": "#FF9F9F",
+    "confirmedCount": 26
+  },
+  "632700": {
+    "cityName": "玉树藏族自治州",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "500241": {
+    "cityName": "秀山土家族苗族自治县",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "652800": {
+    "cityName": "巴音郭楞蒙古自治州",
+    "color": "#FFDFDF",
+    "confirmedCount": 3
+  },
+  "331000": {
+    "cityName": "台州市",
+    "color": "#B80000",
+    "confirmedCount": 146
+  },
+  "442100": {
+    "cityName": "东沙群岛",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "653200": {
+    "cityName": "和田地区",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "220700": {
+    "cityName": "松原市",
+    "color": "#FFDFDF",
+    "confirmedCount": 2
+  },
+  "510700": {
+    "cityName": "绵阳市",
+    "color": "#FF9F9F",
+    "confirmedCount": 22
+  },
+  "370400": {
+    "cityName": "枣庄市",
+    "color": "#FF9F9F",
+    "confirmedCount": 24
+  },
+  "230700": {
+    "cityName": "伊春市",
+    "color": "#FFDFDF",
+    "confirmedCount": 1
+  },
+  "410600": {
+    "cityName": "鹤壁市",
+    "color": "#FFBFBF",
+    "confirmedCount": 19
+  },
+  "340100": {
+    "cityName": "合肥市",
+    "color": "#B80000",
+    "confirmedCount": 174
+  },
+  "511600": {
+    "cityName": "广安市",
+    "color": "#FF9F9F",
+    "confirmedCount": 30
+  },
+  "422800": {
+    "cityName": "恩施土家族苗族自治州",
+    "color": "#A00000",
+    "confirmedCount": 252
+  },
+  "500112": {
+    "cityName": "渝北区",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "419001": {
+    "cityName": "济源市",
+    "color": "#FFDFDF",
+    "confirmedCount": 5
+  },
+  "469021": {
+    "cityName": "定安县",
+    "color": "#FFDFDF",
+    "confirmedCount": 3
+  },
+  "620400": {
+    "cityName": "白银市",
+    "color": "#FFDFDF",
+    "confirmedCount": 4
+  },
+  "630200": {
+    "cityName": "海东市",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "340500": {
+    "cityName": "马鞍山市",
+    "color": "#FF7F7F",
+    "confirmedCount": 38
+  },
+  "500106": {
+    "cityName": "沙坪坝区",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "511000": {
+    "cityName": "内江市",
+    "color": "#FF9F9F",
+    "confirmedCount": 22
+  },
+  "341700": {
+    "cityName": "池州市",
+    "color": "#FFBFBF",
+    "confirmedCount": 17
+  },
+  "469006": {
+    "cityName": "万宁市",
+    "color": "#FFBFBF",
+    "confirmedCount": 13
+  },
+  "220800": {
+    "cityName": "白城市",
+    "color": "#FFDFDF",
+    "confirmedCount": 1
+  },
+  "320600": {
+    "cityName": "南通市",
+    "color": "#FF7F7F",
+    "confirmedCount": 40
+  },
+  "620300": {
+    "cityName": "金昌市",
+    "color": "#FFDFDF",
+    "confirmedCount": 1
+  },
+  "610300": {
+    "cityName": "宝鸡市",
+    "color": "#FFBFBF",
+    "confirmedCount": 13
   },
   "820000": {
     "cityName": "澳门",
     "color": "#FFBFBF",
     "confirmedCount": 10
   },
-  "230200": {
-    "cityName": "齐齐哈尔市",
-    "color": "#FF5F5F",
-    "confirmedCount": 43
+  "320500": {
+    "cityName": "苏州市",
+    "color": "#E70000",
+    "confirmedCount": 87
   },
-  "450200": {
-    "cityName": "柳州市",
-    "color": "#FF9F9F",
-    "confirmedCount": 24
+  "652700": {
+    "cityName": "博尔塔拉蒙古自治州",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "522300": {
+    "cityName": "黔西南布依族苗族自治州",
+    "color": "#FFDFDF",
+    "confirmedCount": 4
+  },
+  "513400": {
+    "cityName": "凉山彝族自治州",
+    "color": "#FFBFBF",
+    "confirmedCount": 13
   },
   "150400": {
     "cityName": "赤峰市",
     "color": "#FFDFDF",
     "confirmedCount": 9
   },
+  "530800": {
+    "cityName": "普洱市",
+    "color": "#FFDFDF",
+    "confirmedCount": 4
+  },
+  "500236": {
+    "cityName": "奉节县",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "140300": {
+    "cityName": "阳泉市",
+    "color": "#FFDFDF",
+    "confirmedCount": 4
+  },
+  "532300": {
+    "cityName": "楚雄彝族自治州",
+    "color": "#FFDFDF",
+    "confirmedCount": 4
+  },
+  "623000": {
+    "cityName": "甘南藏族自治州",
+    "color": "#FFDFDF",
+    "confirmedCount": 8
+  },
+  "659003": {
+    "cityName": "图木舒克市",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "522600": {
+    "cityName": "黔东南苗族侗族自治州",
+    "color": "#FFBFBF",
+    "confirmedCount": 10
+  },
+  "530300": {
+    "cityName": "曲靖市",
+    "color": "#FFBFBF",
+    "confirmedCount": 13
+  },
+  "650400": {
+    "cityName": "吐鲁番市",
+    "color": "#FFDFDF",
+    "confirmedCount": 3
+  },
+  "420600": {
+    "cityName": "襄阳市",
+    "color": "#710000",
+    "confirmedCount": 1175
+  },
+  "652900": {
+    "cityName": "阿克苏地区",
+    "color": "#FFDFDF",
+    "confirmedCount": 1
+  },
+  "370800": {
+    "cityName": "济宁市",
+    "color": "#A00000",
+    "confirmedCount": 260
+  },
+  "441400": {
+    "cityName": "梅州市",
+    "color": "#FFBFBF",
+    "confirmedCount": 16
+  },
+  "500120": {
+    "cityName": "璧山区",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "140900": {
+    "cityName": "忻州市",
+    "color": "#FFDFDF",
+    "confirmedCount": 7
+  },
+  "370900": {
+    "cityName": "泰安市",
+    "color": "#FF7F7F",
+    "confirmedCount": 35
+  },
+  "210900": {
+    "cityName": "阜新市",
+    "color": "#FFDFDF",
+    "confirmedCount": 8
+  },
+  "429006": {
+    "cityName": "天门市",
+    "color": "#A00000",
+    "confirmedCount": 496
+  },
+  "321300": {
+    "cityName": "宿迁市",
+    "color": "#FFBFBF",
+    "confirmedCount": 13
+  },
+  "421100": {
+    "cityName": "黄冈市",
+    "color": "#590000",
+    "confirmedCount": 2907
+  },
+  "110000": {
+    "cityName": "北京市",
+    "color": "#A00000",
+    "confirmedCount": 442
+  },
+  "500238": {
+    "cityName": "巫溪县",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "140500": {
+    "cityName": "晋城市",
+    "color": "#FFBFBF",
+    "confirmedCount": 10
+  },
+  "441500": {
+    "cityName": "汕尾市",
+    "color": "#FFDFDF",
+    "confirmedCount": 5
+  },
+  "469002": {
+    "cityName": "琼海市",
+    "color": "#FFDFDF",
+    "confirmedCount": 6
+  },
+  "450700": {
+    "cityName": "钦州市",
+    "color": "#FFDFDF",
+    "confirmedCount": 8
+  },
+  "220200": {
+    "cityName": "吉林市",
+    "color": "#FFDFDF",
+    "confirmedCount": 5
+  },
+  "620200": {
+    "cityName": "嘉峪关市",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "350100": {
+    "cityName": "福州市",
+    "color": "#FF0000",
+    "confirmedCount": 72
+  },
+  "230100": {
+    "cityName": "哈尔滨市",
+    "color": "#B80000",
+    "confirmedCount": 198
+  },
+  "520100": {
+    "cityName": "贵阳市",
+    "color": "#FF7F7F",
+    "confirmedCount": 36
+  },
+  "540100": {
+    "cityName": "拉萨市",
+    "color": "#FFDFDF",
+    "confirmedCount": 1
+  },
+  "621000": {
+    "cityName": "庆阳市",
+    "color": "#FFDFDF",
+    "confirmedCount": 3
+  },
+  "371700": {
+    "cityName": "菏泽市",
+    "color": "#FFBFBF",
+    "confirmedCount": 18
+  },
+  "450800": {
+    "cityName": "贵港市",
+    "color": "#FFDFDF",
+    "confirmedCount": 8
+  },
   "420200": {
     "cityName": "黄石市",
     "color": "#710000",
     "confirmedCount": 1015
   },
-  "500229": {
-    "cityName": "城口县",
+  "230800": {
+    "cityName": "佳木斯市",
+    "color": "#FFBFBF",
+    "confirmedCount": 15
+  },
+  "659008": {
+    "cityName": "可克达拉市",
     "color": "#FFFFFF",
     "confirmedCount": 0
   },
-  "500152": {
-    "cityName": "潼南区",
+  "654200": {
+    "cityName": "塔城地区",
+    "color": "#FFDFDF",
+    "confirmedCount": 5
+  },
+  "230200": {
+    "cityName": "齐齐哈尔市",
+    "color": "#FF5F5F",
+    "confirmedCount": 43
+  },
+  "500104": {
+    "cityName": "大渡口区",
     "color": "#FFFFFF",
     "confirmedCount": 0
+  },
+  "370500": {
+    "cityName": "东营市",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "441800": {
+    "cityName": "清远市",
+    "color": "#FFBFBF",
+    "confirmedCount": 12
+  },
+  "410800": {
+    "cityName": "焦作市",
+    "color": "#FF7F7F",
+    "confirmedCount": 32
+  },
+  "632600": {
+    "cityName": "果洛藏族自治州",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "321000": {
+    "cityName": "扬州市",
+    "color": "#FF9F9F",
+    "confirmedCount": 23
+  },
+  "211100": {
+    "cityName": "盘锦市",
+    "color": "#FFBFBF",
+    "confirmedCount": 11
+  },
+  "360300": {
+    "cityName": "萍乡市",
+    "color": "#FF7F7F",
+    "confirmedCount": 33
+  },
+  "653100": {
+    "cityName": "喀什地区",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "350600": {
+    "cityName": "漳州市",
+    "color": "#FFBFBF",
+    "confirmedCount": 20
+  },
+  "513300": {
+    "cityName": "甘孜藏族自治州",
+    "color": "#FF0000",
+    "confirmedCount": 78
+  },
+  "533300": {
+    "cityName": "怒江傈僳族自治州",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "451400": {
+    "cityName": "崇左市",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "330800": {
+    "cityName": "衢州市",
+    "color": "#FFBFBF",
+    "confirmedCount": 14
+  },
+  "441700": {
+    "cityName": "阳江市",
+    "color": "#FFBFBF",
+    "confirmedCount": 14
+  },
+  "512000": {
+    "cityName": "资阳市",
+    "color": "#FFDFDF",
+    "confirmedCount": 4
+  },
+  "442000": {
+    "cityName": "中山市",
+    "color": "#FF1F1F",
+    "confirmedCount": 68
+  },
+  "321200": {
+    "cityName": "泰州市",
+    "color": "#FF7F7F",
+    "confirmedCount": 37
+  },
+  "431000": {
+    "cityName": "郴州市",
+    "color": "#FF7F7F",
+    "confirmedCount": 39
+  },
+  "430400": {
+    "cityName": "衡阳市",
+    "color": "#FF5F5F",
+    "confirmedCount": 48
+  },
+  "360800": {
+    "cityName": "吉安市",
+    "color": "#FF9F9F",
+    "confirmedCount": 22
+  },
+  "500113": {
+    "cityName": "巴南区",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "510600": {
+    "cityName": "德阳市",
+    "color": "#FFBFBF",
+    "confirmedCount": 18
+  },
+  "640300": {
+    "cityName": "吴忠市",
+    "color": "#FF9F9F",
+    "confirmedCount": 28
+  },
+  "371600": {
+    "cityName": "滨州市",
+    "color": "#FFBFBF",
+    "confirmedCount": 15
+  },
+  "659004": {
+    "cityName": "五家渠市",
+    "color": "#FFDFDF",
+    "confirmedCount": 2
+  },
+  "500101": {
+    "cityName": "万州区",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "371400": {
+    "cityName": "德州市",
+    "color": "#FF7F7F",
+    "confirmedCount": 37
+  },
+  "500110": {
+    "cityName": "綦江区",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "445200": {
+    "cityName": "揭阳市",
+    "color": "#FFDFDF",
+    "confirmedCount": 8
+  },
+  "511500": {
+    "cityName": "宜宾市",
+    "color": "#FFBFBF",
+    "confirmedCount": 12
   },
   "530700": {
     "cityName": "丽江市",
     "color": "#FFDFDF",
     "confirmedCount": 7
   },
-  "341200": {
-    "cityName": "阜阳市",
-    "color": "#B80000",
-    "confirmedCount": 155
+  "620600": {
+    "cityName": "武威市",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
   },
-  "441600": {
-    "cityName": "河源市",
+  "340600": {
+    "cityName": "淮北市",
+    "color": "#FF9F9F",
+    "confirmedCount": 27
+  },
+  "500240": {
+    "cityName": "石柱土家族自治县",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "500243": {
+    "cityName": "彭水苗族土家族自治县",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "810000": {
+    "cityName": "香港",
+    "color": "#B80000",
+    "confirmedCount": 141
+  },
+  "440600": {
+    "cityName": "佛山市",
+    "color": "#E70000",
+    "confirmedCount": 84
+  },
+  "430700": {
+    "cityName": "常德市",
+    "color": "#E70000",
+    "confirmedCount": 82
+  },
+  "621100": {
+    "cityName": "定西市",
     "color": "#FFDFDF",
-    "confirmedCount": 4
+    "confirmedCount": 9
+  },
+  "140800": {
+    "cityName": "运城市",
+    "color": "#FFBFBF",
+    "confirmedCount": 19
+  },
+  "440200": {
+    "cityName": "韶关市",
+    "color": "#FFBFBF",
+    "confirmedCount": 10
+  },
+  "210600": {
+    "cityName": "丹东市",
+    "color": "#FFBFBF",
+    "confirmedCount": 11
   },
   "469026": {
     "cityName": "昌江黎族自治县",
@@ -1594,103 +1434,118 @@
     "color": "#FFBFBF",
     "confirmedCount": 17
   },
-  "441800": {
-    "cityName": "清远市",
+  "500230": {
+    "cityName": "丰都县",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "350900": {
+    "cityName": "宁德市",
+    "color": "#FF9F9F",
+    "confirmedCount": 26
+  },
+  "140200": {
+    "cityName": "大同市",
     "color": "#FFBFBF",
     "confirmedCount": 12
   },
-  "411400": {
-    "cityName": "商丘市",
+  "420300": {
+    "cityName": "十堰市",
+    "color": "#880000",
+    "confirmedCount": 672
+  },
+  "340300": {
+    "cityName": "蚌埠市",
+    "color": "#B80000",
+    "confirmedCount": 160
+  },
+  "460400": {
+    "cityName": "儋州市",
+    "color": "#FFBFBF",
+    "confirmedCount": 15
+  },
+  "410700": {
+    "cityName": "新乡市",
+    "color": "#FF3F3F",
+    "confirmedCount": 57
+  },
+  "659006": {
+    "cityName": "铁门关市",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "469007": {
+    "cityName": "东方市",
+    "color": "#FFDFDF",
+    "confirmedCount": 3
+  },
+  "410300": {
+    "cityName": "洛阳市",
+    "color": "#FF7F7F",
+    "confirmedCount": 31
+  },
+  "441200": {
+    "cityName": "肇庆市",
+    "color": "#FFBFBF",
+    "confirmedCount": 19
+  },
+  "659005": {
+    "cityName": "北屯市",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "469029": {
+    "cityName": "保亭黎族苗族自治县",
+    "color": "#FFDFDF",
+    "confirmedCount": 3
+  },
+  "341300": {
+    "cityName": "宿州市",
+    "color": "#FF5F5F",
+    "confirmedCount": 41
+  },
+  "360600": {
+    "cityName": "鹰潭市",
+    "color": "#FFBFBF",
+    "confirmedCount": 18
+  },
+  "650100": {
+    "cityName": "乌鲁木齐市",
+    "color": "#FF9F9F",
+    "confirmedCount": 23
+  },
+  "530400": {
+    "cityName": "玉溪市",
+    "color": "#FFBFBF",
+    "confirmedCount": 14
+  },
+  "511100": {
+    "cityName": "乐山市",
+    "color": "#FFDFDF",
+    "confirmedCount": 3
+  },
+  "440400": {
+    "cityName": "珠海市",
     "color": "#CF0000",
-    "confirmedCount": 91
+    "confirmedCount": 98
   },
   "500237": {
     "cityName": "巫山县",
     "color": "#FFFFFF",
     "confirmedCount": 0
   },
-  "419001": {
-    "cityName": "济源市",
-    "color": "#FFDFDF",
-    "confirmedCount": 5
-  },
-  "140700": {
-    "cityName": "晋中市",
-    "color": "#FF7F7F",
-    "confirmedCount": 37
-  },
-  "340200": {
-    "cityName": "芜湖市",
-    "color": "#FF7F7F",
-    "confirmedCount": 34
-  },
-  "620700": {
-    "cityName": "张掖市",
-    "color": "#FFDFDF",
-    "confirmedCount": 2
-  },
-  "500117": {
-    "cityName": "合川区",
+  "632300": {
+    "cityName": "黄南藏族自治州",
     "color": "#FFFFFF",
     "confirmedCount": 0
   },
-  "500233": {
-    "cityName": "忠县",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
+  "230500": {
+    "cityName": "双鸭山市",
+    "color": "#FF3F3F",
+    "confirmedCount": 52
   },
-  "469025": {
-    "cityName": "白沙黎族自治县",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "513300": {
-    "cityName": "甘孜藏族自治州",
-    "color": "#FF0000",
-    "confirmedCount": 78
-  },
-  "650500": {
-    "cityName": "哈密市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "659002": {
-    "cityName": "阿拉尔市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "610500": {
-    "cityName": "渭南市",
-    "color": "#FFBFBF",
-    "confirmedCount": 16
-  },
-  "430600": {
-    "cityName": "岳阳市",
-    "color": "#B80000",
-    "confirmedCount": 156
-  },
-  "533400": {
-    "cityName": "迪庆藏族自治州",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "410600": {
-    "cityName": "鹤壁市",
-    "color": "#FFBFBF",
-    "confirmedCount": 19
-  },
-  "652800": {
-    "cityName": "巴音郭楞蒙古自治州",
-    "color": "#FFDFDF",
-    "confirmedCount": 3
-  },
-  "632800": {
-    "cityName": "海西蒙古族藏族自治州",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "540600": {
-    "cityName": "那曲市",
+  "500111": {
+    "cityName": "大足区",
     "color": "#FFFFFF",
     "confirmedCount": 0
   },
@@ -1699,223 +1554,343 @@
     "color": "#FF1F1F",
     "confirmedCount": 66
   },
-  "330700": {
-    "cityName": "金华市",
-    "color": "#FF3F3F",
-    "confirmedCount": 55
+  "150600": {
+    "cityName": "鄂尔多斯市",
+    "color": "#FFBFBF",
+    "confirmedCount": 11
   },
-  "653200": {
-    "cityName": "和田地区",
+  "441300": {
+    "cityName": "惠州市",
+    "color": "#FF1F1F",
+    "confirmedCount": 62
+  },
+  "500155": {
+    "cityName": "梁平区",
     "color": "#FFFFFF",
     "confirmedCount": 0
   },
-  "511600": {
-    "cityName": "广安市",
-    "color": "#FF9F9F",
-    "confirmedCount": 30
-  },
-  "411100": {
-    "cityName": "漯河市",
-    "color": "#FF7F7F",
-    "confirmedCount": 35
-  },
-  "230500": {
-    "cityName": "双鸭山市",
-    "color": "#FF3F3F",
-    "confirmedCount": 52
-  },
-  "530900": {
-    "cityName": "临沧市",
+  "510800": {
+    "cityName": "广元市",
     "color": "#FFDFDF",
-    "confirmedCount": 1
+    "confirmedCount": 6
   },
-  "211100": {
-    "cityName": "盘锦市",
-    "color": "#FFBFBF",
-    "confirmedCount": 11
+  "130600": {
+    "cityName": "保定市",
+    "color": "#FF7F7F",
+    "confirmedCount": 32
+  },
+  "341200": {
+    "cityName": "阜阳市",
+    "color": "#B80000",
+    "confirmedCount": 155
+  },
+  "510300": {
+    "cityName": "自贡市",
+    "color": "#FFDFDF",
+    "confirmedCount": 9
+  },
+  "430300": {
+    "cityName": "湘潭市",
+    "color": "#FF7F7F",
+    "confirmedCount": 36
+  },
+  "532600": {
+    "cityName": "文山壮族苗族自治州",
+    "color": "#FFDFDF",
+    "confirmedCount": 2
+  },
+  "610600": {
+    "cityName": "延安市",
+    "color": "#FFDFDF",
+    "confirmedCount": 8
+  },
+  "500151": {
+    "cityName": "铜梁区",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "341500": {
+    "cityName": "六安市",
+    "color": "#FF1F1F",
+    "confirmedCount": 69
+  },
+  "360900": {
+    "cityName": "宜春市",
+    "color": "#B80000",
+    "confirmedCount": 106
   },
   "150800": {
     "cityName": "巴彦淖尔市",
     "color": "#FFDFDF",
     "confirmedCount": 8
   },
-  "500109": {
-    "cityName": "北碚区",
+  "500114": {
+    "cityName": "黔江区",
     "color": "#FFFFFF",
     "confirmedCount": 0
   },
-  "330600": {
-    "cityName": "绍兴市",
-    "color": "#FF5F5F",
-    "confirmedCount": 42
-  },
-  "429005": {
-    "cityName": "潜江市",
-    "color": "#B80000",
-    "confirmedCount": 198
-  },
-  "510600": {
-    "cityName": "德阳市",
-    "color": "#FFBFBF",
-    "confirmedCount": 18
-  },
-  "360400": {
-    "cityName": "九江市",
-    "color": "#B80000",
-    "confirmedCount": 118
-  },
-  "469002": {
-    "cityName": "琼海市",
-    "color": "#FFDFDF",
-    "confirmedCount": 6
-  },
-  "500102": {
-    "cityName": "涪陵区",
+  "500118": {
+    "cityName": "永川区",
     "color": "#FFFFFF",
     "confirmedCount": 0
   },
-  "451100": {
-    "cityName": "贺州市",
+  "430500": {
+    "cityName": "邵阳市",
+    "color": "#B80000",
+    "confirmedCount": 102
+  },
+  "469028": {
+    "cityName": "陵水黎族自治县",
     "color": "#FFDFDF",
     "confirmedCount": 4
   },
-  "231200": {
-    "cityName": "绥化市",
-    "color": "#FF5F5F",
-    "confirmedCount": 47
+  "530900": {
+    "cityName": "临沧市",
+    "color": "#FFDFDF",
+    "confirmedCount": 1
   },
-  "500154": {
-    "cityName": "开州区",
+  "330200": {
+    "cityName": "宁波市",
+    "color": "#B80000",
+    "confirmedCount": 157
+  },
+  "340200": {
+    "cityName": "芜湖市",
+    "color": "#FF7F7F",
+    "confirmedCount": 34
+  },
+  "659009": {
+    "cityName": "昆玉市",
     "color": "#FFFFFF",
     "confirmedCount": 0
   },
-  "220400": {
-    "cityName": "辽源市",
-    "color": "#FFDFDF",
-    "confirmedCount": 7
+  "220100": {
+    "cityName": "长春市",
+    "color": "#FF5F5F",
+    "confirmedCount": 45
   },
-  "429021": {
-    "cityName": "神农架林区",
+  "540300": {
+    "cityName": "昌都市",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "210800": {
+    "cityName": "营口市",
+    "color": "#FFDFDF",
+    "confirmedCount": 1
+  },
+  "360200": {
+    "cityName": "景德镇市",
+    "color": "#FFDFDF",
+    "confirmedCount": 6
+  },
+  "130400": {
+    "cityName": "邯郸市",
+    "color": "#FF7F7F",
+    "confirmedCount": 32
+  },
+  "640500": {
+    "cityName": "中卫市",
+    "color": "#FFDFDF",
+    "confirmedCount": 4
+  },
+  "650200": {
+    "cityName": "克拉玛依市",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "500233": {
+    "cityName": "忠县",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "210200": {
+    "cityName": "大连市",
+    "color": "#FFBFBF",
+    "confirmedCount": 19
+  },
+  "640200": {
+    "cityName": "石嘴山市",
+    "color": "#FFDFDF",
+    "confirmedCount": 1
+  },
+  "450600": {
+    "cityName": "防城港市",
+    "color": "#FFBFBF",
+    "confirmedCount": 19
+  },
+  "510400": {
+    "cityName": "攀枝花市",
+    "color": "#FFBFBF",
+    "confirmedCount": 16
+  },
+  "540400": {
+    "cityName": "林芝市",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "450200": {
+    "cityName": "柳州市",
+    "color": "#FF9F9F",
+    "confirmedCount": 24
+  },
+  "451300": {
+    "cityName": "来宾市",
     "color": "#FFBFBF",
     "confirmedCount": 11
   },
-  "621200": {
-    "cityName": "陇南市",
-    "color": "#FFDFDF",
-    "confirmedCount": 4
+  "411400": {
+    "cityName": "商丘市",
+    "color": "#CF0000",
+    "confirmedCount": 91
   },
-  "469007": {
-    "cityName": "东方市",
-    "color": "#FFDFDF",
-    "confirmedCount": 3
-  },
-  "370800": {
-    "cityName": "济宁市",
+  "430100": {
+    "cityName": "长沙市",
     "color": "#A00000",
-    "confirmedCount": 260
+    "confirmedCount": 242
   },
-  "211300": {
-    "cityName": "朝阳市",
-    "color": "#FFDFDF",
-    "confirmedCount": 6
-  },
-  "341100": {
-    "cityName": "滁州市",
+  "371100": {
+    "cityName": "日照市",
     "color": "#FFBFBF",
-    "confirmedCount": 13
+    "confirmedCount": 16
   },
-  "451000": {
-    "cityName": "百色市",
+  "620700": {
+    "cityName": "张掖市",
+    "color": "#FFDFDF",
+    "confirmedCount": 2
+  },
+  "210500": {
+    "cityName": "本溪市",
     "color": "#FFDFDF",
     "confirmedCount": 3
   },
-  "330500": {
-    "cityName": "湖州市",
-    "color": "#FFBFBF",
-    "confirmedCount": 12
-  },
-  "500103": {
-    "cityName": "渝中区",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "431300": {
-    "cityName": "娄底市",
-    "color": "#FF0000",
-    "confirmedCount": 76
-  },
-  "469022": {
-    "cityName": "屯昌县",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "141100": {
-    "cityName": "吕梁市",
+  "610800": {
+    "cityName": "榆林市",
     "color": "#FFDFDF",
-    "confirmedCount": 6
-  },
-  "320400": {
-    "cityName": "常州市",
-    "color": "#FF3F3F",
-    "confirmedCount": 51
-  },
-  "440200": {
-    "cityName": "韶关市",
-    "color": "#FFBFBF",
-    "confirmedCount": 10
+    "confirmedCount": 3
   },
   "330100": {
     "cityName": "杭州市",
     "color": "#B80000",
     "confirmedCount": 182
   },
-  "420800": {
-    "cityName": "荆门市",
-    "color": "#880000",
-    "confirmedCount": 928
+  "659001": {
+    "cityName": "石河子市",
+    "color": "#FFDFDF",
+    "confirmedCount": 4
   },
-  "500112": {
-    "cityName": "渝北区",
+  "430600": {
+    "cityName": "岳阳市",
+    "color": "#B80000",
+    "confirmedCount": 156
+  },
+  "152500": {
+    "cityName": "锡林郭勒盟",
+    "color": "#FFDFDF",
+    "confirmedCount": 9
+  },
+  "500117": {
+    "cityName": "合川区",
     "color": "#FFFFFF",
     "confirmedCount": 0
   },
-  "441400": {
-    "cityName": "梅州市",
-    "color": "#FFBFBF",
-    "confirmedCount": 16
+  "350200": {
+    "cityName": "厦门市",
+    "color": "#FF7F7F",
+    "confirmedCount": 35
   },
-  "350300": {
-    "cityName": "莆田市",
-    "color": "#FF3F3F",
-    "confirmedCount": 56
-  },
-  "340700": {
-    "cityName": "铜陵市",
-    "color": "#FF9F9F",
-    "confirmedCount": 29
-  },
-  "230800": {
-    "cityName": "佳木斯市",
-    "color": "#FFBFBF",
-    "confirmedCount": 15
-  },
-  "510100": {
-    "cityName": "成都市",
-    "color": "#B80000",
-    "confirmedCount": 144
-  },
-  "632200": {
-    "cityName": "海北藏族自治州",
+  "450400": {
+    "cityName": "梧州市",
     "color": "#FFDFDF",
-    "confirmedCount": 3
+    "confirmedCount": 5
   },
-  "360500": {
-    "cityName": "新余市",
+  "440800": {
+    "cityName": "湛江市",
+    "color": "#FF9F9F",
+    "confirmedCount": 22
+  },
+  "411500": {
+    "cityName": "信阳市",
+    "color": "#A00000",
+    "confirmedCount": 274
+  },
+  "361100": {
+    "cityName": "上饶市",
     "color": "#B80000",
-    "confirmedCount": 130
+    "confirmedCount": 123
   },
-  "632500": {
-    "cityName": "海南藏族自治州",
+  "420500": {
+    "cityName": "宜昌市",
+    "color": "#880000",
+    "confirmedCount": 931
+  },
+  "360400": {
+    "cityName": "九江市",
+    "color": "#B80000",
+    "confirmedCount": 118
+  },
+  "460200": {
+    "cityName": "三亚市",
+    "color": "#FF3F3F",
+    "confirmedCount": 54
+  },
+  "610100": {
+    "cityName": "西安市",
+    "color": "#B80000",
+    "confirmedCount": 120
+  },
+  "469023": {
+    "cityName": "澄迈县",
+    "color": "#FFDFDF",
+    "confirmedCount": 9
+  },
+  "500156": {
+    "cityName": "武隆区",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "421000": {
+    "cityName": "荆州市",
+    "color": "#710000",
+    "confirmedCount": 1580
+  },
+  "370700": {
+    "cityName": "潍坊市",
+    "color": "#FF5F5F",
+    "confirmedCount": 44
+  },
+  "500119": {
+    "cityName": "南川区",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "500103": {
+    "cityName": "渝中区",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "659007": {
+    "cityName": "双河市",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "310000": {
+    "cityName": "上海市",
+    "color": "#A00000",
+    "confirmedCount": 353
+  },
+  "520500": {
+    "cityName": "毕节市",
+    "color": "#FF9F9F",
+    "confirmedCount": 23
+  },
+  "710000": {
+    "cityName": "台湾",
+    "color": "#FF3F3F",
+    "confirmedCount": 59
+  },
+  "500229": {
+    "cityName": "城口县",
     "color": "#FFFFFF",
     "confirmedCount": 0
   },
@@ -1924,124 +1899,149 @@
     "color": "#FFDFDF",
     "confirmedCount": 1
   },
-  "510300": {
-    "cityName": "自贡市",
+  "469027": {
+    "cityName": "乐东黎族自治县",
     "color": "#FFDFDF",
-    "confirmedCount": 9
+    "confirmedCount": 2
   },
-  "411300": {
-    "cityName": "南阳市",
-    "color": "#B80000",
-    "confirmedCount": 156
+  "421200": {
+    "cityName": "咸宁市",
+    "color": "#880000",
+    "confirmedCount": 836
   },
-  "659001": {
-    "cityName": "石河子市",
+  "610200": {
+    "cityName": "铜川市",
     "color": "#FFDFDF",
-    "confirmedCount": 4
+    "confirmedCount": 8
   },
   "152900": {
     "cityName": "阿拉善盟",
     "color": "#FFFFFF",
     "confirmedCount": 0
   },
-  "320600": {
-    "cityName": "南通市",
-    "color": "#FF7F7F",
-    "confirmedCount": 40
+  "420900": {
+    "cityName": "孝感市",
+    "color": "#590000",
+    "confirmedCount": 3518
   },
-  "331000": {
-    "cityName": "台州市",
-    "color": "#B80000",
-    "confirmedCount": 146
-  },
-  "220200": {
-    "cityName": "吉林市",
-    "color": "#FFDFDF",
-    "confirmedCount": 5
-  },
-  "440600": {
-    "cityName": "佛山市",
-    "color": "#E70000",
-    "confirmedCount": 84
-  },
-  "150600": {
-    "cityName": "鄂尔多斯市",
-    "color": "#FFBFBF",
-    "confirmedCount": 11
-  },
-  "532300": {
-    "cityName": "楚雄彝族自治州",
-    "color": "#FFDFDF",
-    "confirmedCount": 4
-  },
-  "511500": {
-    "cityName": "宜宾市",
-    "color": "#FFBFBF",
-    "confirmedCount": 12
-  },
-  "370200": {
-    "cityName": "青岛市",
-    "color": "#FF1F1F",
-    "confirmedCount": 61
-  },
-  "442000": {
-    "cityName": "中山市",
-    "color": "#FF1F1F",
-    "confirmedCount": 68
-  },
-  "360700": {
-    "cityName": "赣州市",
-    "color": "#FF0000",
-    "confirmedCount": 76
-  },
-  "640300": {
-    "cityName": "吴忠市",
-    "color": "#FF9F9F",
-    "confirmedCount": 28
-  },
-  "621000": {
-    "cityName": "庆阳市",
-    "color": "#FFDFDF",
-    "confirmedCount": 3
-  },
-  "540300": {
-    "cityName": "昌都市",
-    "color": "#FFFFFF",
-    "confirmedCount": 0
-  },
-  "511800": {
-    "cityName": "雅安市",
+  "211200": {
+    "cityName": "铁岭市",
     "color": "#FFDFDF",
     "confirmedCount": 7
   },
-  "371500": {
-    "cityName": "聊城市",
-    "color": "#FF7F7F",
-    "confirmedCount": 38
+  "130200": {
+    "cityName": "唐山市",
+    "color": "#FF3F3F",
+    "confirmedCount": 58
+  },
+  "320900": {
+    "cityName": "盐城市",
+    "color": "#FF9F9F",
+    "confirmedCount": 27
+  },
+  "500105": {
+    "cityName": "江北区",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "433100": {
+    "cityName": "湘西土家族苗族自治州",
+    "color": "#FFDFDF",
+    "confirmedCount": 8
+  },
+  "410400": {
+    "cityName": "平顶山市",
+    "color": "#FF3F3F",
+    "confirmedCount": 58
+  },
+  "621200": {
+    "cityName": "陇南市",
+    "color": "#FFDFDF",
+    "confirmedCount": 4
   },
   "440700": {
     "cityName": "江门市",
     "color": "#FF9F9F",
     "confirmedCount": 23
   },
-  "500235": {
-    "cityName": "云阳县",
+  "150900": {
+    "cityName": "乌兰察布市",
+    "color": "#FFDFDF",
+    "confirmedCount": 3
+  },
+  "411100": {
+    "cityName": "漯河市",
+    "color": "#FF7F7F",
+    "confirmedCount": 35
+  },
+  "321100": {
+    "cityName": "镇江市",
+    "color": "#FFBFBF",
+    "confirmedCount": 12
+  },
+  "430800": {
+    "cityName": "张家界市",
+    "color": "#FFDFDF",
+    "confirmedCount": 5
+  },
+  "140400": {
+    "cityName": "长治市",
+    "color": "#FFDFDF",
+    "confirmedCount": 8
+  },
+  "520300": {
+    "cityName": "遵义市",
+    "color": "#FF7F7F",
+    "confirmedCount": 32
+  },
+  "500152": {
+    "cityName": "潼南区",
     "color": "#FFFFFF",
     "confirmedCount": 0
   },
-  "460100": {
-    "cityName": "海口市",
-    "color": "#FF7F7F",
-    "confirmedCount": 39
-  },
-  "230600": {
-    "cityName": "大庆市",
-    "color": "#FF9F9F",
-    "confirmedCount": 26
-  },
-  "210900": {
-    "cityName": "阜新市",
+  "211300": {
+    "cityName": "朝阳市",
     "color": "#FFDFDF",
-    "confirmedCount": 8
+    "confirmedCount": 6
+  },
+  "361000": {
+    "cityName": "抚州市",
+    "color": "#FF0000",
+    "confirmedCount": 72
+  },
+  "440300": {
+    "cityName": "深圳市",
+    "color": "#A00000",
+    "confirmedCount": 421
+  },
+  "320300": {
+    "cityName": "徐州市",
+    "color": "#FF0000",
+    "confirmedCount": 79
+  },
+  "210700": {
+    "cityName": "锦州市",
+    "color": "#FFBFBF",
+    "confirmedCount": 12
+  },
+  "150200": {
+    "cityName": "包头市",
+    "color": "#FFBFBF",
+    "confirmedCount": 11
+  },
+  "620100": {
+    "cityName": "兰州市",
+    "color": "#FF7F7F",
+    "confirmedCount": 36
+  },
+  "659002": {
+    "cityName": "阿拉尔市",
+    "color": "#FFFFFF",
+    "confirmedCount": 0
+  },
+  "340800": {
+    "cityName": "安庆市",
+    "color": "#E70000",
+    "confirmedCount": 83
   }
 }
